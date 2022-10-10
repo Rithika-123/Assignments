@@ -1,2 +1,2 @@
 My name is Rithika rao boinpally
-my father name is venkat rao
+my father name is Boinpally venkat rao
