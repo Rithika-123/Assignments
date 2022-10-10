@@ -1,0 +1,7 @@
+<html>
+<head>
+<body>
+<title> this is my section 3 assignment </title>
+</body>
+</head>
+</html>
