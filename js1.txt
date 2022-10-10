@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-<title> my section 3 assignment </title>
+<title> this is my section 3 assignment </title>
 </body>
 </head>
 </html>
